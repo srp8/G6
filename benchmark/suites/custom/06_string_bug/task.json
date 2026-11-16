@@ -1,0 +1,7 @@
+{
+  "name": "06_string_bug",
+  "suite": "custom",
+  "difficulty": "easy",
+  "category": "wrong-delimiter",
+  "source": "hand-written seeded bug"
+}

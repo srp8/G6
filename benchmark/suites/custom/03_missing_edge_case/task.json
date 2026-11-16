@@ -1,0 +1,7 @@
+{
+  "name": "03_missing_edge_case",
+  "suite": "custom",
+  "difficulty": "medium",
+  "category": "missing-edge-case",
+  "source": "hand-written seeded bug"
+}

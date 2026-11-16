@@ -1,0 +1,10 @@
+# Same as `pip install -e ".[notebook,dev]"`; kept for convenience.
+openai>=1.40
+httpx>=0.27
+pandas>=2.0
+matplotlib>=3.8
+notebook>=7.0
+nbconvert>=7.0
+ipykernel>=6.29
+pytest>=8.0
+ruff>=0.5

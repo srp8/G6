@@ -1,0 +1,7 @@
+{
+  "name": "04_two_file_bug",
+  "suite": "custom",
+  "difficulty": "hard",
+  "category": "two-file-bug",
+  "source": "hand-written seeded bug"
+}

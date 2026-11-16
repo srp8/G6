@@ -1,0 +1,7 @@
+{
+  "name": "01_off_by_one",
+  "suite": "custom",
+  "difficulty": "easy",
+  "category": "off-by-one",
+  "source": "hand-written seeded bug"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "07_dict_bug",
+  "suite": "custom",
+  "difficulty": "medium",
+  "category": "state-not-accumulated",
+  "source": "hand-written seeded bug"
+}
