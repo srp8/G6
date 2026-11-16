@@ -1,0 +1,21 @@
+{
+  "backend": "mock",
+  "model": null,
+  "cheap_model": "openai/gpt-5.6-luna",
+  "strong_model": "openai/gpt-6.1-sol",
+  "router": "none",
+  "cascade": false,
+  "cascade_after": 2,
+  "confidence_threshold": 0.6,
+  "max_iterations": 6,
+  "suite": "all",
+  "limit": null,
+  "repeat": 1,
+  "workers": 4,
+  "reasoning_effort": null,
+  "action_mode": "auto",
+  "max_cost_usd": null,
+  "label": "mock_all",
+  "tasks": 38,
+  "started": "2026-11-16T12:31:09-0500"
+}
