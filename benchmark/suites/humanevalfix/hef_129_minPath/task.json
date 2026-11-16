@@ -1,0 +1,10 @@
+{
+  "name": "hef_129_minPath",
+  "suite": "humanevalfix",
+  "difficulty": "hard",
+  "category": "value misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/129",
+  "entry_point": "minPath",
+  "module": "minpath.py"
+}

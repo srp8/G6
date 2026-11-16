@@ -1,0 +1,10 @@
+{
+  "name": "hef_121_solution",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "value misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/121",
+  "entry_point": "solution",
+  "module": "solution.py"
+}

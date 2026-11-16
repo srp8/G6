@@ -1,0 +1,10 @@
+{
+  "name": "hef_103_rounded_avg",
+  "suite": "humanevalfix",
+  "difficulty": "medium",
+  "category": "value misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/103",
+  "entry_point": "rounded_avg",
+  "module": "rounded_avg.py"
+}

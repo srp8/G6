@@ -1,0 +1,10 @@
+{
+  "name": "hef_064_vowels_count",
+  "suite": "humanevalfix",
+  "difficulty": "medium",
+  "category": "missing logic",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/64",
+  "entry_point": "vowels_count",
+  "module": "vowels_count.py"
+}

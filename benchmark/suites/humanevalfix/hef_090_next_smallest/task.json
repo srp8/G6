@@ -1,0 +1,10 @@
+{
+  "name": "hef_090_next_smallest",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "value misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/90",
+  "entry_point": "next_smallest",
+  "module": "next_smallest.py"
+}

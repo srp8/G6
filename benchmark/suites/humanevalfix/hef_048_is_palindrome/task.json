@@ -1,0 +1,10 @@
+{
+  "name": "hef_048_is_palindrome",
+  "suite": "humanevalfix",
+  "difficulty": "medium",
+  "category": "value misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/48",
+  "entry_point": "is_palindrome",
+  "module": "is_palindrome.py"
+}

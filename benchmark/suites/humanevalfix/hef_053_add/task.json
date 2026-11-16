@@ -1,0 +1,10 @@
+{
+  "name": "hef_053_add",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "excess logic",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/53",
+  "entry_point": "add",
+  "module": "add.py"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hef_136_largest_smallest_integers",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "excess logic",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/136",
+  "entry_point": "largest_smallest_integers",
+  "module": "largest_smallest_integers.py"
+}

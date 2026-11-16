@@ -1,0 +1,10 @@
+{
+  "name": "hef_046_fib4",
+  "suite": "humanevalfix",
+  "difficulty": "medium",
+  "category": "value misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/46",
+  "entry_point": "fib4",
+  "module": "fib4.py"
+}

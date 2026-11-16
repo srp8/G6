@@ -1,0 +1,10 @@
+{
+  "name": "hef_124_valid_date",
+  "suite": "humanevalfix",
+  "difficulty": "hard",
+  "category": "variable misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/124",
+  "entry_point": "valid_date",
+  "module": "valid_date.py"
+}

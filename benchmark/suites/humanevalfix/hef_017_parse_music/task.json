@@ -1,0 +1,10 @@
+{
+  "name": "hef_017_parse_music",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "value misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/17",
+  "entry_point": "parse_music",
+  "module": "parse_music.py"
+}

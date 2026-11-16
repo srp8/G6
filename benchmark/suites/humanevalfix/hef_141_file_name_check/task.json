@@ -1,0 +1,10 @@
+{
+  "name": "hef_141_file_name_check",
+  "suite": "humanevalfix",
+  "difficulty": "hard",
+  "category": "missing logic",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/141",
+  "entry_point": "file_name_check",
+  "module": "file_name_check.py"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hef_038_decode_cyclic",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "missing logic",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/38",
+  "entry_point": "decode_cyclic",
+  "module": "decode_cyclic.py"
+}

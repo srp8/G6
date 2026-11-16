@@ -1,0 +1,10 @@
+{
+  "name": "hef_040_triples_sum_to_zero",
+  "suite": "humanevalfix",
+  "difficulty": "medium",
+  "category": "value misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/40",
+  "entry_point": "triples_sum_to_zero",
+  "module": "triples_sum_to_zero.py"
+}

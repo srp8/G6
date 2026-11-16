@@ -1,0 +1,10 @@
+{
+  "name": "hef_080_is_happy",
+  "suite": "humanevalfix",
+  "difficulty": "medium",
+  "category": "operator misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/80",
+  "entry_point": "is_happy",
+  "module": "is_happy.py"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hef_085_add",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "value misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/85",
+  "entry_point": "add",
+  "module": "add.py"
+}

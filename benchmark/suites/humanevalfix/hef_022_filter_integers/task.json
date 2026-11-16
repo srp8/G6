@@ -1,0 +1,10 @@
+{
+  "name": "hef_022_filter_integers",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "variable misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/22",
+  "entry_point": "filter_integers",
+  "module": "filter_integers.py"
+}

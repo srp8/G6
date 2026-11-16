@@ -1,0 +1,10 @@
+{
+  "name": "hef_073_smallest_change",
+  "suite": "humanevalfix",
+  "difficulty": "medium",
+  "category": "variable misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/73",
+  "entry_point": "smallest_change",
+  "module": "smallest_change.py"
+}

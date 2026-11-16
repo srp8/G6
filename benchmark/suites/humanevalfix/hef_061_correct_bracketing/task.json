@@ -1,0 +1,10 @@
+{
+  "name": "hef_061_correct_bracketing",
+  "suite": "humanevalfix",
+  "difficulty": "medium",
+  "category": "operator misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/61",
+  "entry_point": "correct_bracketing",
+  "module": "correct_bracketing.py"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hef_112_reverse_delete",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "operator misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/112",
+  "entry_point": "reverse_delete",
+  "module": "reverse_delete.py"
+}

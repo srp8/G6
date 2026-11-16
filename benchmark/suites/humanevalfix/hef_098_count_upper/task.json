@@ -1,0 +1,10 @@
+{
+  "name": "hef_098_count_upper",
+  "suite": "humanevalfix",
+  "difficulty": "medium",
+  "category": "value misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/98",
+  "entry_point": "count_upper",
+  "module": "count_upper.py"
+}

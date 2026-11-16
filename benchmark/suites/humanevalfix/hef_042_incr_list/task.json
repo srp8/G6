@@ -1,0 +1,10 @@
+{
+  "name": "hef_042_incr_list",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "value misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/42",
+  "entry_point": "incr_list",
+  "module": "incr_list.py"
+}

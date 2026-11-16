@@ -1,0 +1,10 @@
+{
+  "name": "hef_162_string_to_md5",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "function misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/162",
+  "entry_point": "string_to_md5",
+  "module": "string_to_md5.py"
+}

@@ -1,0 +1,219 @@
+{
+  "dataset": "bigcode/humanevalpack",
+  "config": "python",
+  "split": "test",
+  "seed": 7400,
+  "n": 30,
+  "tasks": [
+    {
+      "name": "hef_017_parse_music",
+      "task_id": "Python/17",
+      "bug_type": "value misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_022_filter_integers",
+      "task_id": "Python/22",
+      "bug_type": "variable misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_024_largest_divisor",
+      "task_id": "Python/24",
+      "bug_type": "operator misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_038_decode_cyclic",
+      "task_id": "Python/38",
+      "bug_type": "missing logic",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_040_triples_sum_to_zero",
+      "task_id": "Python/40",
+      "bug_type": "value misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_042_incr_list",
+      "task_id": "Python/42",
+      "bug_type": "value misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_046_fib4",
+      "task_id": "Python/46",
+      "bug_type": "value misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_048_is_palindrome",
+      "task_id": "Python/48",
+      "bug_type": "value misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_051_remove_vowels",
+      "task_id": "Python/51",
+      "bug_type": "excess logic",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_053_add",
+      "task_id": "Python/53",
+      "bug_type": "excess logic",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_061_correct_bracketing",
+      "task_id": "Python/61",
+      "bug_type": "operator misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_064_vowels_count",
+      "task_id": "Python/64",
+      "bug_type": "missing logic",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_073_smallest_change",
+      "task_id": "Python/73",
+      "bug_type": "variable misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_075_is_multiply_prime",
+      "task_id": "Python/75",
+      "bug_type": "value misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_080_is_happy",
+      "task_id": "Python/80",
+      "bug_type": "operator misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_085_add",
+      "task_id": "Python/85",
+      "bug_type": "value misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_090_next_smallest",
+      "task_id": "Python/90",
+      "bug_type": "value misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_098_count_upper",
+      "task_id": "Python/98",
+      "bug_type": "value misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_102_choose_num",
+      "task_id": "Python/102",
+      "bug_type": "variable misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_103_rounded_avg",
+      "task_id": "Python/103",
+      "bug_type": "value misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_112_reverse_delete",
+      "task_id": "Python/112",
+      "bug_type": "operator misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_120_maximum",
+      "task_id": "Python/120",
+      "bug_type": "excess logic",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_121_solution",
+      "task_id": "Python/121",
+      "bug_type": "value misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_124_valid_date",
+      "task_id": "Python/124",
+      "bug_type": "variable misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_129_minPath",
+      "task_id": "Python/129",
+      "bug_type": "value misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_136_largest_smallest_integers",
+      "task_id": "Python/136",
+      "bug_type": "excess logic",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_141_file_name_check",
+      "task_id": "Python/141",
+      "bug_type": "missing logic",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_158_find_max",
+      "task_id": "Python/158",
+      "bug_type": "missing logic",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_162_string_to_md5",
+      "task_id": "Python/162",
+      "bug_type": "function misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    },
+    {
+      "name": "hef_163_generate_integers",
+      "task_id": "Python/163",
+      "bug_type": "value misuse",
+      "buggy_fails": true,
+      "canonical_passes": true
+    }
+  ]
+}

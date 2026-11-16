@@ -1,0 +1,10 @@
+{
+  "name": "hef_051_remove_vowels",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "excess logic",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/51",
+  "entry_point": "remove_vowels",
+  "module": "remove_vowels.py"
+}

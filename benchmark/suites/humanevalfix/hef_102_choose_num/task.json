@@ -1,0 +1,10 @@
+{
+  "name": "hef_102_choose_num",
+  "suite": "humanevalfix",
+  "difficulty": "medium",
+  "category": "variable misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/102",
+  "entry_point": "choose_num",
+  "module": "choose_num.py"
+}

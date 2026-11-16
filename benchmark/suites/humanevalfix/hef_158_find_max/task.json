@@ -1,0 +1,10 @@
+{
+  "name": "hef_158_find_max",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "missing logic",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/158",
+  "entry_point": "find_max",
+  "module": "find_max.py"
+}

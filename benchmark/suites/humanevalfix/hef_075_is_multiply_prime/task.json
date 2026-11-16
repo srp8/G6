@@ -1,0 +1,10 @@
+{
+  "name": "hef_075_is_multiply_prime",
+  "suite": "humanevalfix",
+  "difficulty": "hard",
+  "category": "value misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/75",
+  "entry_point": "is_multiply_prime",
+  "module": "is_multiply_prime.py"
+}

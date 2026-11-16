@@ -1,0 +1,10 @@
+{
+  "name": "hef_163_generate_integers",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "value misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/163",
+  "entry_point": "generate_integers",
+  "module": "generate_integers.py"
+}

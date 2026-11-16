@@ -1,0 +1,10 @@
+{
+  "name": "hef_120_maximum",
+  "suite": "humanevalfix",
+  "difficulty": "medium",
+  "category": "excess logic",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/120",
+  "entry_point": "maximum",
+  "module": "maximum.py"
+}

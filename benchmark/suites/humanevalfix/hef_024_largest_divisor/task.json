@@ -1,0 +1,10 @@
+{
+  "name": "hef_024_largest_divisor",
+  "suite": "humanevalfix",
+  "difficulty": "easy",
+  "category": "operator misuse",
+  "failure_symptoms": "incorrect output",
+  "source": "bigcode/humanevalpack python Python/24",
+  "entry_point": "largest_divisor",
+  "module": "largest_divisor.py"
+}
