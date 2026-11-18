@@ -1,4 +1,4 @@
-"""mini-codex: a small, reproducible AI coding agent.
+"""G6 Unit: a small, reproducible AI coding agent.
 
 Built as the Applied Project Component of a UGA MIST 7400E group report on
 Cisco's enterprise deployment of OpenAI Codex. The package implements a

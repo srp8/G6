@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "minicodex"
 version = "0.2.0"
-description = "A small, reproducible AI coding agent: a scaled-down model of an enterprise Codex workflow, with routing, guardrails and evaluation."
+description = "G6 Unit, a small, reproducible AI coding agent: a scaled-down model of an enterprise Codex workflow, with routing, guardrails and evaluation."
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [{ name = "MIST 7400E Group 6" }]

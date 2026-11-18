@@ -376,7 +376,7 @@ def print_summary(rows: list[dict[str, Any]]) -> None:
 
 
 def build_parser() -> argparse.ArgumentParser:
-    p = argparse.ArgumentParser(description="mini-codex benchmark runner")
+    p = argparse.ArgumentParser(description="G6 Unit benchmark runner")
     p.add_argument(
         "--backend",
         default=os.environ.get("MINICODEX_BACKEND", "mock"),

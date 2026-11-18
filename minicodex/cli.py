@@ -28,7 +28,7 @@ from minicodex.trace import TraceLogger
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="mini-codex: run one task")
+    parser = argparse.ArgumentParser(description="G6 Unit: run one task")
     parser.add_argument(
         "--task", required=True, help="task directory containing repo/ and issue.md"
     )
@@ -89,7 +89,7 @@ def main(argv: list[str] | None = None) -> int:
     )
     result = agent.run(workdir, issue)
 
-    print(f"\n=== mini-codex result: {task_dir.name} ===")
+    print(f"\n=== G6 Unit result: {task_dir.name} ===")
     print(
         f"solved:        {result.solved}"
         + ("" if result.solved else f"  (failure: {result.failure_reason})")

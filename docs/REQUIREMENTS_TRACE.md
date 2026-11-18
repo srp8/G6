@@ -64,7 +64,7 @@ See the run-of-show at the end of this file. Material for each part:
 
 | Time | Segment | On screen | Say |
 |---|---|---|---|
-| 0:00-0:40 | The case in one line | README title, then `docs/diagrams/architecture.png` | Cisco uses Codex to take an issue, edit code, run tests and iterate under guardrails. mini-codex is that loop scaled down to a laptop. |
+| 0:00-0:40 | The case in one line | README title, then `docs/diagrams/architecture.png` | Cisco uses Codex to take an issue, edit code, run tests and iterate under guardrails. G6 Unit is that loop scaled down to a laptop. |
 | 0:40-1:40 | Architecture | `architecture.png`, then `agent-loop.png` | The pieces: issue and repo in, Jev picks the model tier, the agent calls six tools, guardrails check every call, tests decide, and a trace plus a diff go to a human. |
 | 1:40-3:10 | Live run | Terminal: `minicodex --task benchmark/suites/custom/04_two_file_bug --backend openai --router jev` | Point out the router line (tier, confidence), the agent fixing one file, the tests failing, then the second fix and the tests passing. End on the human-review diff. |
 | 3:10-3:50 | Guardrails | `cat` the decoy `.env` in task 01; show a `guardrail_block` in a trace, or run `pytest tests/test_tools.py -q` | The agent never sees secrets, can't run a shell, and can't edit the tests that grade it. |

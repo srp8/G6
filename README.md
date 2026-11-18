@@ -1,11 +1,11 @@
-# mini-codex: a small, reproducible AI coding agent
+# G6 Unit: a small, reproducible AI coding agent
 
 Applied Project Component ("Mock AI Model Creation") for a UGA **MIST 7400E**
 group report on **Cisco's enterprise deployment of OpenAI Codex**.
 
 Cisco's Codex workflow hands an agent an issue. The agent plans, edits files, runs
 the build and tests, reads the errors and iterates, inside a sandbox and with
-humans reviewing the result. `mini-codex` is a scaled-down, fully inspectable
+humans reviewing the result. G6 Unit is a scaled-down, fully inspectable
 version of that loop. It adds the cost control an enterprise needs at scale:
 **Jev** (TypeSafe's decision model) routes each task to a cheap or a strong model,
 and a cascade escalates failures. The project is evaluated on 30 real bug-fix tasks
